@@ -26,6 +26,7 @@
 ### Notes
 
 Describe any challenges encountered while building the app.
+My emulator doesn't work so i am not able to get valid gif. My emulator keeps crashing and does not work at all. Please let me know if there is anything i need to do to fix it. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
